@@ -20,12 +20,8 @@ java端JDBC框架
     HikariCP源码分析
         https://www.fsby.fun/2020/07/30/HikariCP-source-code-0/
         https://www.fsby.fun/tags/Hikari/
-        https://www.fsby.fun/2020/07/30/HikariCP-source-code-0/
         http://www.iocoder.cn/HikariCP/good-collection/?vip
         https://zhuanlan.zhihu.com/p/107748071
-        http://www.iocoder.cn/HikariCP/good-collection/?vip
-        https://zhuanlan.zhihu.com/p/107748071
-        https://www.fsby.fun/tags/Hikari/
         https://github.com/brettwooldridge/HikariCP/wiki/Bad-Behavior:-Handling-Database-Down
     对比HikariCP 与 Druid
         https://cnhkblog.top/2018/06/02/HikariCp%E4%B8%8EDruid%E7%9A%84%E4%BA%A4%E9%94%8B/
@@ -35,9 +31,6 @@ java端JDBC框架
 
 SPRING + JDBC + HikariCP 集成
 SPRING + JDBC + Druid 集成
-
-
-
 
 
 
@@ -63,9 +56,6 @@ Spring-JDBC
         https://github.com/brettwooldridge/HikariCP
         https://stackoverflow.com/questions/5684473/how-to-call-a-custom-rollback-method-in-spring-transaction-management
 
-
-
-
         1. 事务传播机制
         2. 事务隔离机制
         3. 只读
@@ -73,12 +63,11 @@ Spring-JDBC
         5. 回滚规则
 
         https://segmentfault.com/a/1190000013341344
-          https://docs.spring.io/spring/docs/4.0.x/spring-framework-reference/html/jdbc.html https://docs.spring.io/spring/docs/4.0.x/spring-framework-reference/html/transaction.html
+        https://docs.spring.io/spring/docs/4.0.x/spring-framework-reference/html/jdbc.html
+        https://docs.spring.io/spring/docs/4.0.x/spring-framework-reference/html/transaction.html
         https://stackoverflow.com/questions/22221741/spring-global-transaction-vs-local-transaction
         https://www.tutorialspoint.com/spring/spring_transaction_management.htm
         https://docs.oracle.com/cd/A97335_02/apps.102/a83725/trans1.htm
-
-
 
 
         基于下面二者进行原生的sql执行和事务处理
